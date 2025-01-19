@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SkyTech90
 - 👀 I’m interested in web development, particularly using PHP and JavaScript to build dynamic and interactive applications.
 - 🌱 I’m currently learning more about modern frameworks like Laravel and React to enhance my development skills.
-- 💞️ I’m looking to collaborate on web development projects, open-source contributions, or any innovative ideas that involve PHP and JavaScript.
-- 📫 How to reach me: You can contact me via email at skytech90@example.com or connect with me on LinkedIn @SkyTech90Dev.
+- 💞️ I’m looking to collaborate on web development projects, open-source contributions.
+- 📫 How to reach me: You can contact me via email at sky.tech.core@gmail.com.
 
 <!---
 SkyTech90/SkyTech90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
